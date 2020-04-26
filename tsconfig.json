@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "declaration": false,
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "resolveJsonModule": true,
+    "target": "es5"
+  },
+  "include": ["./src"]
+}

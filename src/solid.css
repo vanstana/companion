@@ -1,0 +1,36 @@
+.wp100 { width: 100% } 
+.df { display: flex } 
+.fr { flex-direction: row } 
+.jcsb { justify-content: space-between } 
+.wp70 { width: 70% } 
+.fc { flex-direction: column } 
+.aifs { align-items: flex-start } 
+.p10 { padding: 10px } 
+.wp15 { width: 15% } 
+.jcc { justify-content: center } 
+.aic { align-items: center } 
+.ts24 { font-size: 24px; line-height: 30px } 
+.ph10 { padding-left: 10px; padding-right: 10px } 
+.wp40 { width: 40% } 
+.mt50 { margin-top: 50px } 
+.mt100 { margin-top: 100px } 
+.wp50 { width: 50% } 
+.cn48 { width: 48px; height: 48px } 
+.bw1 { border-width: 1px; border-style: solid } 
+.b-black { border-color: #000 } 
+.bg-white { background: #fff } 
+.ap { position: absolute } 
+.at0 { top: 0px } 
+.al0 { left: 0px } 
+.ar0 { right: 0px } 
+.ab0 { bottom: 0px } 
+.o0 { opacity: 0 } 
+.pen { pointer-events: none } 
+.bg-black { background: #000 } 
+.o50 { opacity: 0.5 } 
+.zi1 { z-index: 1 } 
+.br5 { border-radius: 5px } 
+.mv10 { margin-top: 10px; margin-bottom: 10px } 
+.hd100 { height: 100vh } 
+.black { color: #000 } 
+.white { color: #fff } 
